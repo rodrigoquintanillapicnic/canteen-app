@@ -409,7 +409,7 @@ export default function InventoryDashboard() {
               />
             </div>
             <div>
-              <h1 className="text-xl font-bold leading-tight">Canteen Hub</h1>
+              <h1 className="text-xl font-bold leading-tight">Canteen FC11</h1>
               <p className="text-xs text-red-100 font-medium">Real-time inventory management</p>
             </div>
           </div>
